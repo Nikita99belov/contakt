@@ -16,7 +16,7 @@
 		52EA747F25DC1ABD007DDBFD /* ContactTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA747E25DC1ABD007DDBFD /* ContactTableViewController.swift */; };
 		52EA748B25DC4CAE007DDBFD /* DataTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA748A25DC4CAE007DDBFD /* DataTableViewController.swift */; };
 		52EA749125DC6C16007DDBFD /*  DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA749025DC6C16007DDBFD /*  DataManager.swift */; };
-		52EA749525DC7929007DDBFD /* TabContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA749425DC7929007DDBFD /* TabContactViewController.swift */; };
+		52EA749525DC7929007DDBFD /* TabBarContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA749425DC7929007DDBFD /* TabBarContactViewController.swift */; };
 		52EA749825DC813E007DDBFD /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA749725DC813E007DDBFD /* ListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +32,7 @@
 		52EA747E25DC1ABD007DDBFD /* ContactTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactTableViewController.swift; sourceTree = "<group>"; };
 		52EA748A25DC4CAE007DDBFD /* DataTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataTableViewController.swift; sourceTree = "<group>"; };
 		52EA749025DC6C16007DDBFD /*  DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " DataManager.swift"; sourceTree = "<group>"; };
-		52EA749425DC7929007DDBFD /* TabContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabContactViewController.swift; sourceTree = "<group>"; };
+		52EA749425DC7929007DDBFD /* TabBarContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarContactViewController.swift; sourceTree = "<group>"; };
 		52EA749725DC813E007DDBFD /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -51,7 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				52EA749725DC813E007DDBFD /* ListTableViewController.swift */,
-				52EA749425DC7929007DDBFD /* TabContactViewController.swift */,
+				52EA749425DC7929007DDBFD /* TabBarContactViewController.swift */,
 				52EA748A25DC4CAE007DDBFD /* DataTableViewController.swift */,
 				52EA747E25DC1ABD007DDBFD /* ContactTableViewController.swift */,
 			);
@@ -170,7 +170,7 @@
 			files = (
 				52EA746725DC1119007DDBFD /* AppDelegate.swift in Sources */,
 				52EA747F25DC1ABD007DDBFD /* ContactTableViewController.swift in Sources */,
-				52EA749525DC7929007DDBFD /* TabContactViewController.swift in Sources */,
+				52EA749525DC7929007DDBFD /* TabBarContactViewController.swift in Sources */,
 				52EA747C25DC1522007DDBFD /* Person.swift in Sources */,
 				52EA748B25DC4CAE007DDBFD /* DataTableViewController.swift in Sources */,
 				52EA749825DC813E007DDBFD /* ListTableViewController.swift in Sources */,

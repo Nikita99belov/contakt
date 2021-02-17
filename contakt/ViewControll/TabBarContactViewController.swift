@@ -7,7 +7,7 @@
 
 import UIKit
 
-class TabContactViewController: UITabBarController {
+class TabBarContactViewController: UITabBarController {
     
     static var tabData = Person.randomMany
     

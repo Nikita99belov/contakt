@@ -95,10 +95,10 @@
             </objects>
             <point key="canvasLocation" x="2271.0144927536235" y="-137.27678571428569"/>
         </scene>
-        <!--Tab Contact View Controller-->
+        <!--Tab Bar Contact View Controller-->
         <scene sceneID="cYs-vI-akp">
             <objects>
-                <tabBarController id="skU-cQ-SQs" customClass="TabContactViewController" customModule="contakt" customModuleProvider="target" sceneMemberID="viewController">
+                <tabBarController id="skU-cQ-SQs" customClass="TabBarContactViewController" customModule="contakt" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="h4o-ck-Vee">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>

@@ -9,7 +9,7 @@ import UIKit
 
 class ContactTableViewController: UITableViewController {
     
-    var personList = TabContactViewController.tabData
+    var personList = TabBarContactViewController.tabData
     
     // MARK: - Table view data source
     

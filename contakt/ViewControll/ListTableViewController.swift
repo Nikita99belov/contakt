@@ -9,7 +9,7 @@ import UIKit
 
 class ListTableViewController: UITableViewController {
     
-    var list = TabContactViewController.tabData
+    var list = TabBarContactViewController.tabData
     
     // MARK: - Table view data source
     override func numberOfSections(in tableView: UITableView) -> Int {
